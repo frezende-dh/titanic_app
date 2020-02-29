@@ -1,4 +1,4 @@
-# flask_app : Titanic app para a aula de Deploy
+# flask_app
 
 ### Construir imagem 
 
